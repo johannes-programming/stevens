@@ -10,7 +10,7 @@ Residue Classes
 Installation
 ------------
 
-To install stevens, you can use `pip`. Open your terminal and run:
+To install ``stevens``, you can use ``pip``. Open your terminal and run:
 
 .. code-block:: bash
 
@@ -24,12 +24,14 @@ This project is licensed under the MIT License.
 Links
 -----
 
+* `Documentation <https://pypi.org/project/stevens>`_
 * `Download <https://pypi.org/project/stevens/#files>`_
 * `Source <https://github.com/johannes-computer/stevens>`_
 
 Credits
 -------
-- Author: Johannes
-- Email: johannes-computer@mailfence.com
 
-Thank you for using stevens!
+* Author: Johannes
+* Email: johannes-programming@mailfence.com
+
+Thank you for using ``stevens``!
